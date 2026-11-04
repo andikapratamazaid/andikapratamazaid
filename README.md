@@ -1,14 +1,14 @@
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&random=false&center=true&vCenter=true&width=660&height=50&size=30&color=1F3864&lines=Andika+Pratama+Zaid" alt="Andika Pratama Zaid" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Business+Development+Specialist;Data+%26+AI+Builder;Founder+since+2018;Building+digital+products+with+AI&font=Fira+Code&center=true&width=660&height=45&color=ED7D31&vCenter=true&pause=1000&size=22" alt="Typing roles" /></a>
+</p>
+
 ### Hi there 👋
 
 [![](https://github.com/andikapratamazaid/andikapratamazaid/blob/main/chat.svg)](https://andikapratamazaid.github.io)
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Andika+Pratama+Zaid" alt="Andika Pratama Zaid" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Business+Development+Specialist;Data+%26+AI+Builder;Founder+since+2018;Building+digital+products+with+AI&font=Fira+Code&center=true&width=560&height=45&color=ED7D31&vCenter=true&pause=1000&size=22" alt="Typing roles" /></a>
-</p>
 
 <h4 align="center">My portfolio website: <a href="https://andikapratamazaid.github.io">andikapratamazaid.github.io</a></h4>
 
