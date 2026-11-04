@@ -31,16 +31,16 @@
 # 📊 GitHub Stats and Activity
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=andikapratamazaid&show_icons=true&theme=default&include_all_commits=true&hide_border=true" alt="Andika's GitHub stats" />
+  <img height="150" src="https://github-readme-stats-one-bice.vercel.app/api?username=andikapratamazaid&show_icons=true&theme=default&include_all_commits=true&hide_border=true" alt="Andika's GitHub stats" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=andikapratamazaid&theme=default&hide_border=true" alt="Andika's GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andikapratamazaid&layout=compact&hide_border=true" alt="Top languages" />
+  <img height="150" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=andikapratamazaid&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
 <div align="center">
-  <img alt="Andika's activity graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=andikapratamazaid&hide_border=true" />
+  <img alt="Andika's profile details and contribution graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andikapratamazaid&theme=default" />
 </div>
 
 ---
