@@ -1,19 +1,106 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="448" viewBox="0 0 900 448" font-family="'Plus Jakarta Sans','Segoe UI',Arial,sans-serif">
-  <rect x="24" y="16" width="252" height="56" rx="18" fill="#EEF1F5"/>
-  <text x="48" y="53" font-size="26" font-weight="600" fill="#1F3864">Hi, I'm Andika</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="448" viewBox="0 0 900 448" font-family="'Segoe UI',Inter,Arial,sans-serif">
+  <style>
+    .bubble { fill: #EEF1F5; }
+    .bubble-accent { fill: #FFF3E8; }
+    .t { fill: #24292F; font-size: 25px; }
+    .t-name { fill: #1F3864; font-size: 26px; font-weight: 600; }
+    .t-accent { fill: #7A3B12; font-size: 25px; }
+    .dot { fill: #8A8F98; animation: blink 1s infinite; }
+    .dot2 { animation-delay: .15s; }
+    .dot3 { animation-delay: .3s; }
+    .typing { opacity: 0; }
+    .typing-1 { animation: fade 1s 0s; }
+    .typing-2 { animation: fade 1s 1.3s; }
+    .typing-3 { animation: fade 1s 2.6s; }
+    .typing-4 { animation: fade 1s 3.9s; }
+    .typing-5 { animation: fade 1s 5.2s; }
+    .typing-6 { animation: fade 1s 6.5s; }
+    .msg-1 { animation: wait 1s, pop .25s 1s; }
+    .msg-2 { animation: wait 2.3s, pop .25s 2.3s; }
+    .msg-3 { animation: wait 3.6s, pop .25s 3.6s; }
+    .msg-4 { animation: wait 4.9s, pop .25s 4.9s; }
+    .msg-5 { animation: wait 6.2s, pop .25s 6.2s; }
+    .msg-6 { animation: wait 7.5s, pop .25s 7.5s; }
+    @keyframes wait { 0%, 100% { opacity: 0; } }
+    @keyframes fade { 0%, 100% { opacity: 0; } 20%, 80% { opacity: 1; } }
+    @keyframes pop {
+      0% { opacity: 0; transform: translateY(6px); }
+      100% { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes blink { 0%, 80%, 100% { opacity: .25; } 40% { opacity: 1; } }
+    @media (prefers-color-scheme: dark) {
+      .bubble { fill: #3B3B3D; }
+      .bubble-accent { fill: #4A3220; }
+      .t { fill: #DCDCDC; }
+      .t-name { fill: #DCDCDC; }
+      .t-accent { fill: #F5C08A; }
+      .dot { fill: #B9BDC4; }
+    }
+  </style>
 
-  <rect x="24" y="88" width="512" height="56" rx="18" fill="#EEF1F5"/>
-  <text x="48" y="125" font-size="25" fill="#24292F">Founder of PT Nusa Inteligensi Media</text>
+  <g class="typing typing-1">
+    <rect x="24" y="16" width="84" height="56" rx="18" class="bubble"/>
+    <circle class="dot" cx="46" cy="44" r="6"/>
+    <circle class="dot dot2" cx="66" cy="44" r="6"/>
+    <circle class="dot dot3" cx="86" cy="44" r="6"/>
+  </g>
+  <g class="msg-1">
+    <rect x="24" y="16" width="252" height="56" rx="18" class="bubble"/>
+    <text x="48" y="53" class="t-name">Hi, I'm Andika</text>
+  </g>
 
-  <rect x="24" y="160" width="584" height="56" rx="18" fill="#EEF1F5"/>
-  <text x="48" y="197" font-size="25" fill="#24292F">Founder of PT Zeed Enjiniring Construction</text>
+  <g class="typing typing-2">
+    <rect x="24" y="88" width="84" height="56" rx="18" class="bubble"/>
+    <circle class="dot" cx="46" cy="116" r="6"/>
+    <circle class="dot dot2" cx="66" cy="116" r="6"/>
+    <circle class="dot dot3" cx="86" cy="116" r="6"/>
+  </g>
+  <g class="msg-2">
+    <rect x="24" y="88" width="512" height="56" rx="18" class="bubble"/>
+    <text x="48" y="125" class="t">Founder of PT Nusa Inteligensi Media</text>
+  </g>
 
-  <rect x="24" y="232" width="548" height="56" rx="18" fill="#EEF1F5"/>
-  <text x="48" y="269" font-size="25" fill="#24292F">Business Development | Data &amp; AI Builder</text>
+  <g class="typing typing-3">
+    <rect x="24" y="160" width="84" height="56" rx="18" class="bubble"/>
+    <circle class="dot" cx="46" cy="188" r="6"/>
+    <circle class="dot dot2" cx="66" cy="188" r="6"/>
+    <circle class="dot dot3" cx="86" cy="188" r="6"/>
+  </g>
+  <g class="msg-3">
+    <rect x="24" y="160" width="584" height="56" rx="18" class="bubble"/>
+    <text x="48" y="197" class="t">Founder of PT Zeed Enjiniring Construction</text>
+  </g>
 
-  <rect x="24" y="304" width="612" height="56" rx="18" fill="#EEF1F5"/>
-  <text x="48" y="341" font-size="25" fill="#24292F">I build analytics, AI agents, and web products</text>
+  <g class="typing typing-4">
+    <rect x="24" y="232" width="84" height="56" rx="18" class="bubble"/>
+    <circle class="dot" cx="46" cy="260" r="6"/>
+    <circle class="dot dot2" cx="66" cy="260" r="6"/>
+    <circle class="dot dot3" cx="86" cy="260" r="6"/>
+  </g>
+  <g class="msg-4">
+    <rect x="24" y="232" width="548" height="56" rx="18" class="bubble"/>
+    <text x="48" y="269" class="t">Business Development | Data &amp; AI Builder</text>
+  </g>
 
-  <rect x="24" y="376" width="540" height="56" rx="18" fill="#FFF3E8"/>
-  <text x="48" y="413" font-size="25" fill="#7A3B12">Open to partnerships and collaborations</text>
+  <g class="typing typing-5">
+    <rect x="24" y="304" width="84" height="56" rx="18" class="bubble"/>
+    <circle class="dot" cx="46" cy="332" r="6"/>
+    <circle class="dot dot2" cx="66" cy="332" r="6"/>
+    <circle class="dot dot3" cx="86" cy="332" r="6"/>
+  </g>
+  <g class="msg-5">
+    <rect x="24" y="304" width="612" height="56" rx="18" class="bubble"/>
+    <text x="48" y="341" class="t">I build analytics, AI agents, and web products</text>
+  </g>
+
+  <g class="typing typing-6">
+    <rect x="24" y="376" width="84" height="56" rx="18" class="bubble"/>
+    <circle class="dot" cx="46" cy="404" r="6"/>
+    <circle class="dot dot2" cx="66" cy="404" r="6"/>
+    <circle class="dot dot3" cx="86" cy="404" r="6"/>
+  </g>
+  <g class="msg-6">
+    <rect x="24" y="376" width="540" height="56" rx="18" class="bubble-accent"/>
+    <text x="48" y="413" class="t-accent">Open to partnerships and collaborations</text>
+  </g>
 </svg>
