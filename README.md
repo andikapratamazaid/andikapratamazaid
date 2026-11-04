@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Business+Development+Specialist;Data+%26+AI+Builder;Founder+since+2018;Building+digital+products+with+AI&font=Fira+Code&center=true&width=660&height=45&color=ED7D31&vCenter=true&pause=1000&size=22" alt="Typing roles" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Founder+of+PT+Nusa+Inteligensi+Media;Founder+of+PT+Zeed+Enjiniring+Construction;Business+Development+Specialist;Building+digital+products+with+AI&font=Fira+Code&center=true&width=660&height=45&color=ED7D31&vCenter=true&pause=1000&size=22" alt="Typing roles" /></a>
 </p>
 
 ### Hi there 👋
